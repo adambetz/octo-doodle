@@ -1,9 +1,15 @@
 # octo-doodle
 
-===== stacks =====
+===== Base Stacks =====
 
- Backbone
+HTML 5
+css 3
+javascript
+
+===== libraries =====
+
+ Backbone.js
    j-query 3.2.1
-   underscore
+   underscore.js
    
 ===================
